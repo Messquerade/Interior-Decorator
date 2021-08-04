@@ -1,0 +1,27 @@
+body {
+
+}
+
+h1 {
+  
+}
+
+.column{
+float: left;
+width: 300px;
+}
+
+.column_center {
+float: center;
+width: 300px;
+}
+
+.column_right {
+float: center;
+width: 300px;
+}
+
+img {
+width: 250px;
+height: 200px;
+}
