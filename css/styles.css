@@ -1,24 +1,38 @@
 body {
-
+  background-color: rgb(238, 234, 234);
+  text-align: center;
 }
-
-h1 {
-  
-}
-
 .column{
 float: left;
 width: 300px;
+background-color: aqua;
+border: solid;
+border-width: 3px;
+padding: 10px;
+margin: 10px;
+box-sizing: border-box;
 }
 
 .column_center {
-float: center;
+float: left;
 width: 300px;
+background-color: rgb(221, 175, 74);
+border: solid;
+border-width: 3px;
+padding: 10px;
+margin: 10px;
+box-sizing: border-box;
 }
 
 .column_right {
-float: center;
+float: left;
 width: 300px;
+background-color: rgb(150, 25, 112);
+border: solid;
+border-width: 3px;
+padding: 10px;
+margin: 10px;
+box-sizing: border-box;
 }
 
 img {
